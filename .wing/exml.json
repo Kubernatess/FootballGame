@@ -1,0 +1,10 @@
+{
+  "1726ecfab1e": {
+    "path": "..\\resource\\gameSkins\\ball.ts",
+    "class": "ball",
+    "parentPath": ""
+  },
+  "global": {
+    "globalAutoLayerMarkEnable": true
+  }
+}
